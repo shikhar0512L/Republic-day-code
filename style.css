@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Neonderthaw&family=Nunito:ital,wght@0,200;1,300&family=Rubik+Beastly&family=The+Nautigal:wght@700&family=Ubuntu:ital,wght@1,300&display=swap');
+
+
+*{
+    text-align: center;
+    font-family: 'Luxurious Roman', cursive;
+font-family: 'Neonderthaw', cursive;
+font-family: 'Nunito', sans-serif;
+font-family: 'Rubik Beastly', cursive;
+font-weight:bold;
+font-family: 'The Nautigal', cursive;
+font-family: 'Ubuntu', sans-serif;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+img {
+    width: 100%;
+    max-width: 100%;
+  }
